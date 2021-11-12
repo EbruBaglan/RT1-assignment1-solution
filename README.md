@@ -23,7 +23,7 @@ When done, you can run the program with:
 $ python run.py solution.py
 ```
 
-Solution Explaining
+Solution Explaining Video
 ---------
 
 Not to take too much time, here is an explanatory video that you can see both my flowchart and code. Notice that the video is visible to only the ones with the link, so it is only Professor Carmine Recchiuto who can view the video.
