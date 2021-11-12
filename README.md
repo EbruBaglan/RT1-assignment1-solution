@@ -23,10 +23,12 @@ When done, you can run the program with:
 $ python run.py solution.py
 ```
 
-Robot API
+Solution Explaining
 ---------
 
-The API for controlling a simulated robot is designed to be as similar as possible to the [SR API][sr-api].
+Not to take too much time, here is an explanatory video that you can see both my flowchart and code. Notice that the video is visible to only the ones with the link, so it is only Professor Carmine Recchiuto who can view the video.
+
+https://youtu.be/CarIHrRCf3Q 
 
 ### Motors ###
 
