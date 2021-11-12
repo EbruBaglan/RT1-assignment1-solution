@@ -33,7 +33,7 @@ Not to take too much time, here is an explanatory video that you can see both my
 
 ### Flowchart ###
 
-![alt text](https://ibb.co/Nnjgh5j)
+![alt text](https://i.ibb.co/XksfB1s/flowchart.png)
 
 
 The simulated robot has two motors configured for skid steering, connected to a two-output [Motor Board](https://studentrobotics.org/docs/kit/motor_board). The left motor is connected to output `0` and the right motor to output `1`.
