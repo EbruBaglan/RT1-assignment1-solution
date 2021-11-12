@@ -1,7 +1,7 @@
 Research Track 1 - Assignment 1 - Solution
 ================================
 
-This is a solution to the proposed problem by in the Research Track 1 course offered by the Università degli Studi di Genova in 2021-2022 Fall semester by Professor Carmine Recchiuto. The assignment requires the robot to avoid crashing the golden tokens and collecting and tleabing behind the silver tokens. The simulator used is a simple, portable robot simulator developed by [Student Robotics] (https://studentrobotics.org). Notice that some of the arenas and the exercises have been modified for the Research Track I course by Professor Carmine Recchiuto.
+This is a solution to the proposed problem by in the Research Track 1 course offered by the Università degli Studi di Genova in 2021-2022 Fall semester by Professor Carmine Recchiuto. The assignment requires the robot to avoid crashing the golden tokens and collecting and leaving behind the silver tokens. The simulator used is a simple, portable robot simulator developed by [Student Robotics] (https://studentrobotics.org). Notice that some of the arenas and the exercises have been modified for the Research Track I course by Professor Carmine Recchiuto.
 
 Installing and running
 ----------------------
@@ -15,7 +15,7 @@ Once the dependencies are installed, simply run the `test.py` script to test out
 
 To run the script in the simulator, use `run.py`, passing it the file name. 
 
-The solution for the assignment can be found inside the solution.py files.
+The solution for the assignment can be found inside the main directory, named solution.py.
 
 When done, you can run the program with:
 
