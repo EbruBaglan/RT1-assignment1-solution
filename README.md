@@ -1,6 +1,9 @@
 Research Track 1 - Assignment 1 - Solution
 ================================
+<img src="ssofcircuit.png" alt="ScreenShot" width="600"/>
+
 <!--https://www.iloveimg.com/download/7l94cmwcf956h8z1Ay8h84vljztr0jjz72yz3d01527qr891x8mwycjblxzg2q2b1yh634p3dmt27fhkbzm89p41ls4jqsAt037k7l307zgzcrtlqf66xk4d9m8gfb6rqnyq8qqhdkv15x0kp47sgxb2pmkq6bd9xA8j6px2zb6frdzsf2fq/6 
+![Screenshot](ssofcircuit.png)
 -->
 This is a solution to the proposed problem by in the Research Track 1 course offered by the Università degli Studi di Genova in 2021-2022 Fall semester by Professor Carmine Recchiuto. The assignment requires the robot to avoid crashing the golden tokens and collecting and leaving behind the silver tokens. The simulator used is a simple, portable robot simulator developed by [Student Robotics] (https://studentrobotics.org). Notice that some of the arenas and the exercises have been modified for the Research Track I course by Professor Carmine Recchiuto.
 
