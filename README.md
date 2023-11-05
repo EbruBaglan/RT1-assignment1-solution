@@ -1,5 +1,7 @@
 Research Track 1 - Assignment 1 - Solution
 ================================
+![GitHub top language](https://img.shields.io/github/languages/top/EbruBaglan/RT1-assignment1-solution.svg?style=social)
+
 <img src="ssofcircuit.png" alt="ScreenShot" width="600"/>
 
 <!--https://www.iloveimg.com/download/7l94cmwcf956h8z1Ay8h84vljztr0jjz72yz3d01527qr891x8mwycjblxzg2q2b1yh634p3dmt27fhkbzm89p41ls4jqsAt037k7l307zgzcrtlqf66xk4d9m8gfb6rqnyq8qqhdkv15x0kp47sgxb2pmkq6bd9xA8j6px2zb6frdzsf2fq/6 
